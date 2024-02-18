@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/107.189.10.142.ico",
     "slug": "do53-roost-i-pv4-udp",
     "status": "down",
-    "uptime": "6.39%",
-    "uptimeDay": "6.39%",
-    "uptimeWeek": "6.39%",
-    "uptimeMonth": "6.39%",
-    "uptimeYear": "6.39%",
+    "uptime": "1.20%",
+    "uptimeDay": "1.20%",
+    "uptimeWeek": "1.20%",
+    "uptimeMonth": "1.20%",
+    "uptimeYear": "1.20%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-18": 0
+      "2024-02-18": 17
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/107.189.10.142.ico",
     "slug": "do53-roost-i-pv4-tcp",
     "status": "down",
-    "uptime": "2.08%",
-    "uptimeDay": "2.08%",
-    "uptimeWeek": "2.08%",
-    "uptimeMonth": "2.08%",
-    "uptimeYear": "2.08%",
+    "uptime": "1.00%",
+    "uptimeDay": "1.00%",
+    "uptimeWeek": "1.00%",
+    "uptimeMonth": "1.00%",
+    "uptimeYear": "1.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-18": 0
+      "2024-02-18": 17
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/107.189.10.142.ico",
     "slug": "do53-roost-i-pv6-udp",
     "status": "down",
-    "uptime": "8.69%",
-    "uptimeDay": "8.69%",
-    "uptimeWeek": "8.69%",
-    "uptimeMonth": "8.69%",
-    "uptimeYear": "8.69%",
+    "uptime": "0.80%",
+    "uptimeDay": "0.80%",
+    "uptimeWeek": "0.80%",
+    "uptimeMonth": "0.80%",
+    "uptimeYear": "0.80%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-18": 0
+      "2024-02-18": 17
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/107.189.10.142.ico",
     "slug": "do53-roost-i-pv6-tcp",
     "status": "down",
-    "uptime": "3.76%",
-    "uptimeDay": "3.76%",
-    "uptimeWeek": "3.76%",
-    "uptimeMonth": "3.76%",
-    "uptimeYear": "3.76%",
+    "uptime": "0.60%",
+    "uptimeDay": "0.60%",
+    "uptimeWeek": "0.60%",
+    "uptimeMonth": "0.60%",
+    "uptimeYear": "0.60%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-18": 0
+      "2024-02-18": 17
     }
   }
 ]
