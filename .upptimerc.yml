@@ -19,8 +19,8 @@ status-website:
   baseUrl: /upptime-loopx
   logoUrl: https://uxwing.com/wp-content/themes/uxwing/download/domain-hosting/dns-icon.png
   name: LoopX DNS status
-  introTitle: "**LoopX DNS** is a secure and privacy focused DNS service."
-  introMessage: LoopX DNS** is a secure and privacy focused DNS service.
+  introTitle: "**LoopX DNS**"
+  introMessage: LoopX DNS is a secure and privacy focused DNS service.
   navbar:
     - title: Status
       href: /
