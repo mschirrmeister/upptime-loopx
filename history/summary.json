@@ -4,15 +4,15 @@
     "url": "http://107.189.10.142:9202",
     "icon": "https://icons.duckduckgo.com/ip3/107.189.10.142.ico",
     "slug": "do53-roost-i-pv4-udp",
-    "status": "up",
-    "uptime": "82.38%",
-    "uptimeDay": "53.18%",
-    "uptimeWeek": "65.76%",
-    "uptimeMonth": "82.38%",
-    "uptimeYear": "82.38%",
+    "status": "down",
+    "uptime": "82.65%",
+    "uptimeDay": "55.98%",
+    "uptimeWeek": "66.22%",
+    "uptimeMonth": "82.65%",
+    "uptimeYear": "82.65%",
     "time": 348,
     "timeDay": 281,
-    "timeWeek": 359,
+    "timeWeek": 360,
     "timeMonth": 348,
     "timeYear": 348,
     "dailyMinutesDown": {
@@ -22,7 +22,7 @@
       "2024-02-29": 577,
       "2024-02-28": 649,
       "2024-02-27": 694,
-      "2024-02-26": 127
+      "2024-02-26": 80
     }
   },
   {
@@ -30,12 +30,12 @@
     "url": "http://107.189.10.142:9203",
     "icon": "https://icons.duckduckgo.com/ip3/107.189.10.142.ico",
     "slug": "do53-roost-i-pv4-tcp",
-    "status": "up",
-    "uptime": "83.34%",
-    "uptimeDay": "52.18%",
-    "uptimeWeek": "67.63%",
-    "uptimeMonth": "83.34%",
-    "uptimeYear": "83.34%",
+    "status": "down",
+    "uptime": "83.57%",
+    "uptimeDay": "54.98%",
+    "uptimeWeek": "68.03%",
+    "uptimeMonth": "83.57%",
+    "uptimeYear": "83.57%",
     "time": 340,
     "timeDay": 279,
     "timeWeek": 368,
@@ -47,7 +47,7 @@
       "2024-03-01": 569,
       "2024-02-29": 581,
       "2024-02-28": 625,
-      "2024-02-27": 592
+      "2024-02-27": 552
     }
   },
   {
@@ -55,12 +55,12 @@
     "url": "http://107.189.10.142:9204",
     "icon": "https://icons.duckduckgo.com/ip3/107.189.10.142.ico",
     "slug": "do53-roost-i-pv6-udp",
-    "status": "up",
-    "uptime": "82.63%",
-    "uptimeDay": "54.20%",
-    "uptimeWeek": "66.26%",
-    "uptimeMonth": "82.63%",
-    "uptimeYear": "82.63%",
+    "status": "down",
+    "uptime": "82.86%",
+    "uptimeDay": "56.99%",
+    "uptimeWeek": "66.64%",
+    "uptimeMonth": "82.86%",
+    "uptimeYear": "82.86%",
     "time": 287,
     "timeDay": 279,
     "timeWeek": 294,
@@ -73,7 +73,7 @@
       "2024-02-29": 514,
       "2024-02-28": 641,
       "2024-02-27": 729,
-      "2024-02-26": 80
+      "2024-02-26": 41
     }
   },
   {
@@ -81,15 +81,15 @@
     "url": "http://107.189.10.142:9205",
     "icon": "https://icons.duckduckgo.com/ip3/107.189.10.142.ico",
     "slug": "do53-roost-i-pv6-tcp",
-    "status": "up",
-    "uptime": "83.64%",
-    "uptimeDay": "55.20%",
-    "uptimeWeek": "68.21%",
-    "uptimeMonth": "83.64%",
-    "uptimeYear": "83.64%",
+    "status": "down",
+    "uptime": "83.77%",
+    "uptimeDay": "58.00%",
+    "uptimeWeek": "68.40%",
+    "uptimeMonth": "83.77%",
+    "uptimeYear": "83.77%",
     "time": 303,
     "timeDay": 282,
-    "timeWeek": 295,
+    "timeWeek": 296,
     "timeMonth": 303,
     "timeYear": 303,
     "dailyMinutesDown": {
@@ -98,7 +98,7 @@
       "2024-03-01": 548,
       "2024-02-29": 602,
       "2024-02-28": 677,
-      "2024-02-27": 492
+      "2024-02-27": 473
     }
   }
 ]
