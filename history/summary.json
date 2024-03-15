@@ -4,12 +4,12 @@
     "url": "http://107.189.10.142:9202",
     "icon": "https://icons.duckduckgo.com/ip3/107.189.10.142.ico",
     "slug": "do53-roost-i-pv4-udp",
-    "status": "up",
-    "uptime": "90.65%",
-    "uptimeDay": "53.18%",
-    "uptimeWeek": "66.20%",
-    "uptimeMonth": "90.65%",
-    "uptimeYear": "90.65%",
+    "status": "down",
+    "uptime": "90.72%",
+    "uptimeDay": "57.80%",
+    "uptimeWeek": "66.40%",
+    "uptimeMonth": "90.72%",
+    "uptimeYear": "90.72%",
     "time": 319,
     "timeDay": 284,
     "timeWeek": 284,
@@ -22,7 +22,7 @@
       "2024-03-12": 715,
       "2024-03-11": 553,
       "2024-03-10": 443,
-      "2024-03-09": 227
+      "2024-03-09": 207
     }
   },
   {
@@ -31,11 +31,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/107.189.10.142.ico",
     "slug": "do53-roost-i-pv4-tcp",
     "status": "up",
-    "uptime": "90.58%",
-    "uptimeDay": "50.74%",
+    "uptime": "90.60%",
+    "uptimeDay": "55.37%",
     "uptimeWeek": "65.95%",
-    "uptimeMonth": "90.58%",
-    "uptimeYear": "90.58%",
+    "uptimeMonth": "90.60%",
+    "uptimeYear": "90.60%",
     "time": 326,
     "timeDay": 284,
     "timeWeek": 284,
@@ -56,12 +56,12 @@
     "url": "http://107.189.10.142:9204",
     "icon": "https://icons.duckduckgo.com/ip3/107.189.10.142.ico",
     "slug": "do53-roost-i-pv6-udp",
-    "status": "up",
-    "uptime": "90.60%",
-    "uptimeDay": "53.84%",
-    "uptimeWeek": "66.03%",
-    "uptimeMonth": "90.60%",
-    "uptimeYear": "90.60%",
+    "status": "down",
+    "uptime": "90.67%",
+    "uptimeDay": "58.45%",
+    "uptimeWeek": "66.21%",
+    "uptimeMonth": "90.67%",
+    "uptimeYear": "90.67%",
     "time": 287,
     "timeDay": 285,
     "timeWeek": 284,
@@ -74,7 +74,7 @@
       "2024-03-12": 722,
       "2024-03-11": 509,
       "2024-03-10": 399,
-      "2024-03-09": 313
+      "2024-03-09": 295
     }
   },
   {
@@ -82,12 +82,12 @@
     "url": "http://107.189.10.142:9205",
     "icon": "https://icons.duckduckgo.com/ip3/107.189.10.142.ico",
     "slug": "do53-roost-i-pv6-tcp",
-    "status": "up",
-    "uptime": "90.46%",
-    "uptimeDay": "52.73%",
-    "uptimeWeek": "65.51%",
-    "uptimeMonth": "90.46%",
-    "uptimeYear": "90.46%",
+    "status": "down",
+    "uptime": "90.54%",
+    "uptimeDay": "57.33%",
+    "uptimeWeek": "65.73%",
+    "uptimeMonth": "90.54%",
+    "uptimeYear": "90.54%",
     "time": 297,
     "timeDay": 286,
     "timeWeek": 284,
@@ -100,7 +100,7 @@
       "2024-03-12": 722,
       "2024-03-11": 557,
       "2024-03-10": 444,
-      "2024-03-09": 273
+      "2024-03-09": 251
     }
   }
 ]
