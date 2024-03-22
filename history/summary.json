@@ -4,12 +4,12 @@
     "url": "http://107.189.10.142:9202",
     "icon": "https://icons.duckduckgo.com/ip3/107.189.10.142.ico",
     "slug": "do53-roost-i-pv4-udp",
-    "status": "up",
-    "uptime": "92.86%",
-    "uptimeDay": "65.47%",
-    "uptimeWeek": "66.99%",
-    "uptimeMonth": "92.40%",
-    "uptimeYear": "92.86%",
+    "status": "down",
+    "uptime": "92.90%",
+    "uptimeDay": "65.45%",
+    "uptimeWeek": "67.17%",
+    "uptimeMonth": "92.45%",
+    "uptimeYear": "92.90%",
     "time": 315,
     "timeDay": 281,
     "timeWeek": 301,
@@ -22,7 +22,7 @@
       "2024-03-19": 606,
       "2024-03-18": 692,
       "2024-03-17": 687,
-      "2024-03-16": 47
+      "2024-03-16": 28
     }
   },
   {
@@ -30,12 +30,12 @@
     "url": "http://107.189.10.142:9203",
     "icon": "https://icons.duckduckgo.com/ip3/107.189.10.142.ico",
     "slug": "do53-roost-i-pv4-tcp",
-    "status": "up",
-    "uptime": "92.50%",
-    "uptimeDay": "67.01%",
-    "uptimeWeek": "65.31%",
-    "uptimeMonth": "92.02%",
-    "uptimeYear": "92.50%",
+    "status": "down",
+    "uptime": "92.71%",
+    "uptimeDay": "66.99%",
+    "uptimeWeek": "66.28%",
+    "uptimeMonth": "92.24%",
+    "uptimeYear": "92.71%",
     "time": 323,
     "timeDay": 283,
     "timeWeek": 309,
@@ -48,7 +48,7 @@
       "2024-03-19": 576,
       "2024-03-18": 701,
       "2024-03-17": 673,
-      "2024-03-16": 280
+      "2024-03-16": 183
     }
   },
   {
@@ -82,12 +82,12 @@
     "url": "http://107.189.10.142:9205",
     "icon": "https://icons.duckduckgo.com/ip3/107.189.10.142.ico",
     "slug": "do53-roost-i-pv6-tcp",
-    "status": "up",
-    "uptime": "92.60%",
-    "uptimeDay": "62.80%",
-    "uptimeWeek": "65.75%",
-    "uptimeMonth": "92.12%",
-    "uptimeYear": "92.60%",
+    "status": "down",
+    "uptime": "92.66%",
+    "uptimeDay": "62.77%",
+    "uptimeWeek": "66.02%",
+    "uptimeMonth": "92.18%",
+    "uptimeYear": "92.66%",
     "time": 297,
     "timeDay": 279,
     "timeWeek": 296,
@@ -100,7 +100,7 @@
       "2024-03-19": 615,
       "2024-03-18": 723,
       "2024-03-17": 697,
-      "2024-03-16": 75
+      "2024-03-16": 47
     }
   }
 ]
