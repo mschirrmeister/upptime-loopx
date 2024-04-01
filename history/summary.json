@@ -6,7 +6,7 @@
     "slug": "do53-roost-i-pv4-udp",
     "status": "up",
     "uptime": "93.55%",
-    "uptimeDay": "59.18%",
+    "uptimeDay": "59.87%",
     "uptimeWeek": "60.42%",
     "uptimeMonth": "90.89%",
     "uptimeYear": "93.55%",
@@ -29,14 +29,14 @@
     "url": "http://107.189.10.142:9203",
     "icon": "https://icons.duckduckgo.com/ip3/107.189.10.142.ico",
     "slug": "do53-roost-i-pv4-tcp",
-    "status": "up",
-    "uptime": "94.07%",
-    "uptimeDay": "62.57%",
-    "uptimeWeek": "63.59%",
-    "uptimeMonth": "91.62%",
-    "uptimeYear": "94.07%",
+    "status": "down",
+    "uptime": "94.10%",
+    "uptimeDay": "62.59%",
+    "uptimeWeek": "63.77%",
+    "uptimeMonth": "91.66%",
+    "uptimeYear": "94.10%",
     "time": 320,
-    "timeDay": 285,
+    "timeDay": 284,
     "timeWeek": 306,
     "timeMonth": 310,
     "timeYear": 320,
@@ -46,7 +46,7 @@
       "2024-03-30": 791,
       "2024-03-29": 764,
       "2024-03-28": 627,
-      "2024-03-27": 247
+      "2024-03-27": 228
     }
   },
   {
@@ -54,12 +54,12 @@
     "url": "http://107.189.10.142:9204",
     "icon": "https://icons.duckduckgo.com/ip3/107.189.10.142.ico",
     "slug": "do53-roost-i-pv6-udp",
-    "status": "up",
-    "uptime": "93.93%",
-    "uptimeDay": "55.53%",
-    "uptimeWeek": "62.78%",
-    "uptimeMonth": "91.44%",
-    "uptimeYear": "93.93%",
+    "status": "down",
+    "uptime": "93.97%",
+    "uptimeDay": "56.19%",
+    "uptimeWeek": "62.98%",
+    "uptimeMonth": "91.48%",
+    "uptimeYear": "93.97%",
     "time": 294,
     "timeDay": 280,
     "timeWeek": 288,
@@ -71,7 +71,7 @@
       "2024-03-30": 772,
       "2024-03-29": 761,
       "2024-03-28": 604,
-      "2024-03-27": 239
+      "2024-03-27": 219
     }
   },
   {
@@ -79,14 +79,14 @@
     "url": "http://107.189.10.142:9205",
     "icon": "https://icons.duckduckgo.com/ip3/107.189.10.142.ico",
     "slug": "do53-roost-i-pv6-tcp",
-    "status": "up",
-    "uptime": "93.83%",
-    "uptimeDay": "57.01%",
-    "uptimeWeek": "62.15%",
-    "uptimeMonth": "91.29%",
-    "uptimeYear": "93.83%",
+    "status": "down",
+    "uptime": "93.88%",
+    "uptimeDay": "57.00%",
+    "uptimeWeek": "62.42%",
+    "uptimeMonth": "91.35%",
+    "uptimeYear": "93.88%",
     "time": 298,
-    "timeDay": 370,
+    "timeDay": 372,
     "timeWeek": 302,
     "timeMonth": 296,
     "timeYear": 298,
@@ -96,7 +96,7 @@
       "2024-03-30": 831,
       "2024-03-29": 774,
       "2024-03-28": 607,
-      "2024-03-27": 190
+      "2024-03-27": 162
     }
   }
 ]
